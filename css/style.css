@@ -1,0 +1,145 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+hr{
+    width: 5rem;
+    border-color:#EAF6F6 ;
+    border-width: 10px 0 0 0 ;
+    border-style: dotted;
+    margin: 50px auto;
+}
+
+a{
+    color: #11999e;
+    text-decoration: none;
+    margin: 0 20px ;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+/* container section (div) */
+
+.top{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+
+
+}
+
+.middle{
+    margin: 30px 0;
+    line-height: 3;
+}
+
+.bottom{
+    background-color: #66bfbf;
+    padding: 50px 0;
+}
+
+.contact-me{
+    line-height: 2;
+    margin: 70px 0;
+}
+
+.skill-row{
+    width: 50%;
+    position: relative;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  
+}
+
+/* it is image  section  */
+
+.profile_img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.comp_img{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin: 0 30px 50px 0;
+
+}
+.html_img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top_cloud{
+    position: absolute;
+    top: 30px;
+    right: 350px;
+}
+
+.bottom_cloud{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+}
+
+
+/* text style */
+
+h1{
+    font-size: 5.625rem;
+    margin: 0 0 1.5rem 0;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+    
+ 
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999e;
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+
+.bottom_text{
+    color: #EAF6F6;
+    margin-top: 50px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.btn{
+    background-color: #11999e;
+    border-radius: 28px;
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 20px 0 50px 0;
+
+}
+
+.btn:hover{
+    background-color: #66bfbf;
+}
